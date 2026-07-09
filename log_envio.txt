@@ -1,0 +1,428 @@
+2026-07-09 13:19:24,046 - WARNING - 🧪 MODO TESTE ATIVADO - Nenhuma mensagem será enviada!
+2026-07-09 13:19:24,049 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,053 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,054 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,055 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,057 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,058 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,060 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,061 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,062 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,063 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,064 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,064 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,065 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,066 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,069 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,070 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,071 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,073 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,075 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,076 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,077 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,079 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,080 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,080 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,081 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,082 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,084 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,085 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,086 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,087 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,087 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,088 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,089 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,089 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:19:24,091 - INFO - 📄 465 leads carregados do CSV.
+2026-07-09 13:19:24,091 - INFO - 
+==============================
+2026-07-09 13:19:24,092 - INFO - 🚀 INICIANDO LOTE 1/10
+2026-07-09 13:19:24,092 - INFO - ==============================
+2026-07-09 13:19:24,093 - INFO - 
+📦 Iniciando envio do lote 1 com 50 contatos...
+2026-07-09 13:19:24,421 - INFO - ➡️ [1/50] Enviando para 5516992963644
+2026-07-09 13:19:24,424 - INFO - 🧪 [MODO TESTE] Enviaria para 5516992963644: 'Oi! Vi o Glow Up nails aqui em Franca — 1 avaliaçõ...'
+2026-07-09 13:19:24,424 - INFO -    ⏳ Aguardando 11s...
+2026-07-09 13:19:35,426 - INFO - ➡️ [2/50] Enviando para 5516992245131
+2026-07-09 13:19:35,427 - INFO - 🧪 [MODO TESTE] Enviaria para 5516992245131: 'Oi! Vi o Iago Bomfim Corretor | Cidade Nova Imóvei...'
+2026-07-09 13:19:35,427 - INFO - ⏸️ Pausa extra anti-bloqueio: 56s
+2026-07-09 13:19:35,428 - INFO -    ⏳ Aguardando 73s...
+2026-07-09 13:20:48,429 - INFO - ➡️ [3/50] Enviando para 5516991011147
+2026-07-09 13:20:48,429 - INFO - 🧪 [MODO TESTE] Enviaria para 5516991011147: 'Oi! Vi o Rose Corretora de Imóveis aqui em Franca ...'
+2026-07-09 13:20:48,429 - INFO -    ⏳ Aguardando 10s...
+2026-07-09 13:20:58,431 - INFO - ➡️ [4/50] Enviando para 5516992480007
+2026-07-09 13:20:58,431 - INFO - 🧪 [MODO TESTE] Enviaria para 5516992480007: 'Oi! Vi o Investconsórcio aqui em Franca — 2 avalia...'
+2026-07-09 13:20:58,432 - INFO -    ⏳ Aguardando 10s...
+2026-07-09 13:21:08,435 - INFO - ➡️ [5/50] Enviando para 5516991195681
+2026-07-09 13:21:08,435 - INFO - 🧪 [MODO TESTE] Enviaria para 5516991195681: 'Oi! Vi o Orius Capitais aqui em Franca — 1 avaliaç...'
+2026-07-09 13:21:08,436 - INFO -    ⏳ Aguardando 28s...
+2026-07-09 13:21:36,437 - INFO - ➡️ [6/50] Enviando para 5547988690110
+2026-07-09 13:21:36,437 - INFO - 🧪 [MODO TESTE] Enviaria para 5547988690110: 'Oi! Vi o TOP FIT STUDIO DE MUSCULAÇÃO aqui em Fran...'
+2026-07-09 13:21:36,438 - INFO -    ⏳ Aguardando 11s...
+2026-07-09 13:21:47,439 - INFO - ➡️ [7/50] Enviando para 5516993104133
+2026-07-09 13:21:47,440 - INFO - 🧪 [MODO TESTE] Enviaria para 5516993104133: 'Oi! Vi o Machado Seguros & Investimentos aqui em F...'
+2026-07-09 13:21:47,440 - INFO -    ⏳ Aguardando 19s...
+2026-07-09 13:22:06,441 - INFO - ➡️ [8/50] Enviando para 5516991673359
+2026-07-09 13:22:06,442 - INFO - 🧪 [MODO TESTE] Enviaria para 5516991673359: 'Oi! Vi o Esmalteria E Nail Spa L.Giometti aqui em ...'
+2026-07-09 13:22:06,442 - INFO -    ⏳ Aguardando 21s...
+2026-07-09 13:22:27,443 - INFO - ➡️ [9/50] Enviando para 5516991707882
+2026-07-09 13:22:27,443 - INFO - 🧪 [MODO TESTE] Enviaria para 5516991707882: 'Oi! Vi o Studio Be - Um mundo além das unhas... aq...'
+2026-07-09 13:22:27,444 - INFO -    ⏳ Aguardando 26s...
+2026-07-09 13:22:53,445 - INFO - ➡️ [10/50] Enviando para 5516988206654
+2026-07-09 13:22:53,445 - INFO - 🧪 [MODO TESTE] Enviaria para 5516988206654: 'Oi! Vi o Fit Pró 3.0 Academia aqui em Franca — 13 ...'
+2026-07-09 13:22:53,445 - INFO -    ⏳ Aguardando 20s...
+2026-07-09 13:23:13,446 - INFO - ➡️ [11/50] Enviando para 5516982434146
+2026-07-09 13:23:13,446 - INFO - 🧪 [MODO TESTE] Enviaria para 5516982434146: 'Oi! Vi o Harmonização facial - Esteticista Dra. Du...'
+2026-07-09 13:23:13,447 - INFO - ⏸️ Pausa extra anti-bloqueio: 35s
+2026-07-09 13:23:13,447 - INFO -    ⏳ Aguardando 53s...
+2026-07-09 13:24:06,449 - INFO - ➡️ [12/50] Enviando para 5516994549816
+2026-07-09 13:24:06,450 - INFO - 🧪 [MODO TESTE] Enviaria para 5516994549816: 'Oi! Vi o Club Pets - Banho e Tosa Hotel para Cacho...'
+2026-07-09 13:24:06,450 - INFO -    ⏳ Aguardando 17s...
+2026-07-09 13:24:23,451 - INFO - ➡️ [13/50] Enviando para 5516993224848
+2026-07-09 13:24:23,453 - INFO - 🧪 [MODO TESTE] Enviaria para 5516993224848: 'Oi! Vi o Alpha petshop Franca aqui em Franca — 1 a...'
+2026-07-09 13:24:23,454 - INFO -    ⏳ Aguardando 15s...
+2026-07-09 13:25:22,966 - WARNING - 🧪 MODO TESTE ATIVADO - Nenhuma mensagem será enviada!
+2026-07-09 13:25:22,967 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,967 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,968 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,968 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,968 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,968 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,969 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,970 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,970 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,971 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,971 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,971 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,972 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,972 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,972 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,973 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,973 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,974 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,974 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,975 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,975 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,976 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,977 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,977 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,977 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,979 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,980 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,980 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,980 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,981 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,981 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,982 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,982 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,982 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:25:22,984 - INFO - 📄 465 leads carregados do CSV.
+2026-07-09 13:25:22,984 - INFO - 
+==============================
+2026-07-09 13:25:22,984 - INFO - 🚀 INICIANDO LOTE 1/10
+2026-07-09 13:25:22,984 - INFO - ==============================
+2026-07-09 13:25:22,984 - INFO - 
+📦 Iniciando envio do lote 1 com 50 contatos...
+2026-07-09 13:25:23,015 - INFO - ➡️ [1/50] Enviando para 5516992963644
+2026-07-09 13:25:23,015 - INFO - 🧪 [MODO TESTE] Enviaria para 5516992963644: 'Oi! Vi o Glow Up nails aqui em Franca — 1 avaliaçõ...'
+2026-07-09 13:25:23,016 - INFO -    ⏳ Aguardando 22s...
+2026-07-09 13:39:48,462 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,462 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,463 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,463 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,463 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,463 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,464 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,464 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,465 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,465 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,465 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,466 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,466 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,466 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,466 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,467 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,467 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,468 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,468 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,469 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,469 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,470 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,471 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,471 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,471 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,472 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,472 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,473 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,473 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,473 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,474 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,474 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,474 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,474 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 13:39:48,476 - INFO - 📄 465 leads carregados do CSV.
+2026-07-09 13:39:48,476 - INFO - 
+==============================
+2026-07-09 13:39:48,476 - INFO - 🚀 INICIANDO LOTE 1/24
+2026-07-09 13:39:48,476 - INFO - ==============================
+2026-07-09 13:39:48,476 - INFO - 
+📦 Iniciando envio do lote 1 com 20 contatos...
+2026-07-09 13:39:48,506 - INFO - ➡️ [1/20] Enviando para 5516992963644
+2026-07-09 13:39:48,507 - ERROR - ❌ Erro ao enviar para 5516992963644 (tentativa 1): Country Code Missing in Phone Number!
+2026-07-09 13:39:48,507 - INFO - 🔄 Retry 2/2 em 10s...
+2026-07-09 13:39:58,507 - ERROR - ❌ Erro ao enviar para 5516992963644 (tentativa 2): Country Code Missing in Phone Number!
+2026-07-09 13:39:58,507 - WARNING -    ⚠️ Falha no envio após retries. Continuando...
+2026-07-09 13:40:08,509 - INFO - ➡️ [2/20] Enviando para 5516992245131
+2026-07-09 13:40:08,509 - ERROR - ❌ Erro ao enviar para 5516992245131 (tentativa 1): Country Code Missing in Phone Number!
+2026-07-09 13:40:08,509 - INFO - 🔄 Retry 2/2 em 10s...
+2026-07-09 13:40:18,510 - ERROR - ❌ Erro ao enviar para 5516992245131 (tentativa 2): Country Code Missing in Phone Number!
+2026-07-09 13:40:18,510 - WARNING -    ⚠️ Falha no envio após retries. Continuando...
+2026-07-09 13:40:28,511 - INFO - ➡️ [3/20] Enviando para 5516991011147
+2026-07-09 14:01:00,916 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,917 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,918 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,918 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,918 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,918 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,919 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,919 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,920 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,920 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,920 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,921 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,921 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,921 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,922 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,922 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,922 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,923 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,923 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,924 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,925 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,927 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,927 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,927 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,928 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,929 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,929 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,930 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,930 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,931 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,931 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,931 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,932 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,932 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:01:00,934 - INFO - 📄 465 leads carregados do CSV.
+2026-07-09 14:01:00,934 - INFO - 
+==============================
+2026-07-09 14:01:00,934 - INFO - 🚀 INICIANDO LOTE 1/24
+2026-07-09 14:01:00,935 - INFO - ==============================
+2026-07-09 14:01:00,935 - INFO - 
+📦 Iniciando envio do lote 1 com 20 contatos...
+2026-07-09 14:01:00,979 - INFO - ➡️ [1/20] Enviando para 5516992963644
+2026-07-09 14:01:00,980 - ERROR - ❌ Erro ao enviar para 5516992963644 (tentativa 1): Country Code Missing in Phone Number!
+2026-07-09 14:01:00,980 - INFO - 🔄 Retry 2/2 em 10s...
+2026-07-09 14:01:10,980 - ERROR - ❌ Erro ao enviar para 5516992963644 (tentativa 2): Country Code Missing in Phone Number!
+2026-07-09 14:01:10,981 - WARNING -    ⚠️ Falha no envio após retries. Continuando...
+2026-07-09 14:01:20,987 - INFO - ➡️ [2/20] Enviando para 5516992245131
+2026-07-09 14:01:20,987 - ERROR - ❌ Erro ao enviar para 5516992245131 (tentativa 1): Country Code Missing in Phone Number!
+2026-07-09 14:01:20,987 - INFO - 🔄 Retry 2/2 em 10s...
+2026-07-09 14:01:30,987 - ERROR - ❌ Erro ao enviar para 5516992245131 (tentativa 2): Country Code Missing in Phone Number!
+2026-07-09 14:01:30,987 - WARNING -    ⚠️ Falha no envio após retries. Continuando...
+2026-07-09 14:01:40,988 - INFO - ➡️ [3/20] Enviando para 5516991011147
+2026-07-09 14:02:32,276 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,276 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,277 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,277 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,277 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,277 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,278 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,278 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,279 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,279 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,279 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,280 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,280 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,280 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,281 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,281 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,281 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,283 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,284 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,285 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,285 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,286 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,287 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,287 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,287 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,288 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,288 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,289 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,289 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,289 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,289 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,289 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,289 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,290 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:32,291 - INFO - 📄 465 leads carregados do CSV.
+2026-07-09 14:02:32,291 - INFO - 
+==============================
+2026-07-09 14:02:32,291 - INFO - 🚀 INICIANDO LOTE 1/24
+2026-07-09 14:02:32,291 - INFO - ==============================
+2026-07-09 14:02:32,291 - INFO - 
+📦 Iniciando envio do lote 1 com 20 contatos...
+2026-07-09 14:02:32,321 - INFO - ➡️ [1/20] Enviando para 5516992963644
+2026-07-09 14:02:32,321 - ERROR - ❌ Erro ao enviar para 5516992963644 (tentativa 1): Country Code Missing in Phone Number!
+2026-07-09 14:02:32,321 - INFO - 🔄 Retry 2/2 em 10s...
+2026-07-09 14:02:42,322 - ERROR - ❌ Erro ao enviar para 5516992963644 (tentativa 2): Country Code Missing in Phone Number!
+2026-07-09 14:02:42,322 - WARNING -    ⚠️ Falha no envio após retries. Continuando...
+2026-07-09 14:02:52,323 - INFO - ➡️ [2/20] Enviando para 5516992245131
+2026-07-09 14:02:52,323 - ERROR - ❌ Erro ao enviar para 5516992245131 (tentativa 1): Country Code Missing in Phone Number!
+2026-07-09 14:02:52,323 - INFO - 🔄 Retry 2/2 em 10s...
+2026-07-09 14:02:59,845 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,845 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,845 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,846 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,846 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,846 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,847 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,847 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,848 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,849 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,850 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,850 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,851 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,851 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,851 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,851 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,852 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,853 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,853 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,854 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,854 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,855 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,855 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,855 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,856 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,856 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,857 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,857 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,858 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,858 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,858 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,859 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,859 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,859 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:02:59,861 - INFO - 📄 465 leads carregados do CSV.
+2026-07-09 14:02:59,861 - INFO - 
+==============================
+2026-07-09 14:02:59,861 - INFO - 🚀 INICIANDO LOTE 1/24
+2026-07-09 14:02:59,861 - INFO - ==============================
+2026-07-09 14:02:59,861 - INFO - 
+📦 Iniciando envio do lote 1 com 20 contatos...
+2026-07-09 14:02:59,900 - INFO - ➡️ [1/20] Enviando para 5516992963644
+2026-07-09 14:02:59,900 - ERROR - ❌ Erro ao enviar para 5516992963644 (tentativa 1): Country Code Missing in Phone Number!
+2026-07-09 14:02:59,900 - INFO - 🔄 Retry 2/2 em 10s...
+2026-07-09 14:03:02,323 - ERROR - ❌ Erro ao enviar para 5516992245131 (tentativa 2): Country Code Missing in Phone Number!
+2026-07-09 14:03:02,324 - WARNING -    ⚠️ Falha no envio após retries. Continuando...
+2026-07-09 14:03:09,901 - ERROR - ❌ Erro ao enviar para 5516992963644 (tentativa 2): Country Code Missing in Phone Number!
+2026-07-09 14:03:09,902 - WARNING -    ⚠️ Falha no envio após retries. Continuando...
+2026-07-09 14:03:12,324 - INFO - ➡️ [3/20] Enviando para 5516991011147
+2026-07-09 14:03:19,903 - INFO - ➡️ [2/20] Enviando para 5516992245131
+2026-07-09 14:03:19,903 - ERROR - ❌ Erro ao enviar para 5516992245131 (tentativa 1): Country Code Missing in Phone Number!
+2026-07-09 14:03:19,903 - INFO - 🔄 Retry 2/2 em 10s...
+2026-07-09 14:04:33,968 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,968 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,969 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,969 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,969 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,969 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,970 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,970 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,971 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,971 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,971 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,972 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,972 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,972 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,973 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,973 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,973 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,974 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,974 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,975 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,975 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,976 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,976 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,976 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,976 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,977 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,978 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,978 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,978 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,979 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,979 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,979 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,979 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,979 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:04:33,980 - INFO - 📄 465 leads carregados do CSV.
+2026-07-09 14:04:33,980 - INFO - 
+==============================
+2026-07-09 14:04:33,980 - INFO - 🚀 INICIANDO LOTE 1/24
+2026-07-09 14:04:33,980 - INFO - ==============================
+2026-07-09 14:04:33,980 - INFO - 
+📦 Iniciando envio do lote 1 com 20 contatos...
+2026-07-09 14:04:34,010 - INFO - ➡️ [1/20] Enviando para 5516992963644
+2026-07-09 14:04:34,010 - ERROR - ❌ Erro ao enviar para 5516992963644 (tentativa 1): Country Code Missing in Phone Number!
+2026-07-09 14:04:34,010 - INFO - 🔄 Retry 2/2 em 10s...
+2026-07-09 14:04:44,011 - ERROR - ❌ Erro ao enviar para 5516992963644 (tentativa 2): Country Code Missing in Phone Number!
+2026-07-09 14:04:44,011 - WARNING -    ⚠️ Falha no envio após retries. Continuando...
+2026-07-09 14:04:54,012 - INFO - ➡️ [2/20] Enviando para 5516992245131
+2026-07-09 14:04:54,013 - ERROR - ❌ Erro ao enviar para 5516992245131 (tentativa 1): Country Code Missing in Phone Number!
+2026-07-09 14:04:54,013 - INFO - 🔄 Retry 2/2 em 10s...
+2026-07-09 14:05:04,013 - ERROR - ❌ Erro ao enviar para 5516992245131 (tentativa 2): Country Code Missing in Phone Number!
+2026-07-09 14:05:04,013 - WARNING -    ⚠️ Falha no envio após retries. Continuando...
+2026-07-09 14:05:14,014 - INFO - ➡️ [3/20] Enviando para 5516991011147
+2026-07-09 14:08:30,303 - ERROR - ❌ Erro ao enviar para 5516991011147 (tentativa 1): Country Code Missing in Phone Number!
+2026-07-09 14:08:30,303 - INFO - 🔄 Retry 2/2 em 10s...
+2026-07-09 14:18:18,521 - WARNING - 🧪 MODO TESTE ATIVADO - Nenhuma mensagem será enviada!
+2026-07-09 14:18:18,523 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:18:18,523 - WARNING - Linha sem número de telefone ignorada
+2026-07-09 14:18:18,523 - INFO - 📄 8 leads carregados do CSV.
+2026-07-09 14:18:18,523 - INFO - 
+==============================
+2026-07-09 14:18:18,524 - INFO - 🚀 INICIANDO LOTE 1/1
+2026-07-09 14:18:18,524 - INFO - ==============================
+2026-07-09 14:18:18,524 - INFO - 
+📦 Iniciando envio do lote 1 com 8 contatos...
+2026-07-09 14:18:18,554 - INFO - ➡️ [1/8] Enviando para +5516999990732
+2026-07-09 14:18:18,554 - INFO - 🧪 [MODO TESTE] Enviaria para +5516999990732: 'Oi! Vi o kêmili Domenes Nails Designer aqui em Fra...'
+2026-07-09 14:18:18,554 - INFO -    ⏳ Aguardando 35s...
+2026-07-09 14:18:53,555 - INFO - ➡️ [2/8] Enviando para +5516988015150
+2026-07-09 14:18:53,555 - INFO - 🧪 [MODO TESTE] Enviaria para +5516988015150: 'Oi! Vi o Unhas By Karla — 16 avaliações, nota 5.0,...'
+2026-07-09 14:18:53,555 - INFO -    ⏳ Aguardando 20s...
+2026-07-09 14:19:13,556 - INFO - ➡️ [3/8] Enviando para +551634066201
+2026-07-09 14:19:13,556 - INFO - 🧪 [MODO TESTE] Enviaria para +551634066201: 'Oi! Vi o Hamburgueria Alameda aqui em Franca — 708...'
+2026-07-09 14:19:13,556 - INFO -    ⏳ Aguardando 26s...
+2026-07-09 14:19:39,557 - INFO - ➡️ [4/8] Enviando para +551637212620
+2026-07-09 14:19:39,557 - INFO - 🧪 [MODO TESTE] Enviaria para +551637212620: 'Oi! Vi o Brutu's Lanches aqui em Franca — 1630 ava...'
+2026-07-09 14:19:39,557 - INFO -    ⏳ Aguardando 30s...
+2026-07-09 14:20:09,558 - INFO - ➡️ [5/8] Enviando para +5516994358532
+2026-07-09 14:20:09,558 - INFO - 🧪 [MODO TESTE] Enviaria para +5516994358532: 'Oi! Vi o Cintia Carla Nails — 83 avaliações, nota ...'
+2026-07-09 14:20:09,559 - INFO -    ⏳ Aguardando 12s...
+2026-07-09 14:20:21,559 - INFO - ➡️ [6/8] Enviando para +5516991676818
+2026-07-09 14:20:21,560 - INFO - 🧪 [MODO TESTE] Enviaria para +5516991676818: 'Oi! Vi o Barbearia Barber Club (Skyit) — 188 avali...'
+2026-07-09 14:20:21,560 - INFO -    ⏳ Aguardando 25s...
+2026-07-09 14:20:46,561 - INFO - ➡️ [7/8] Enviando para +5511932340182
+2026-07-09 14:20:46,561 - INFO - 🧪 [MODO TESTE] Enviaria para +5511932340182: 'Oi! Vi o Academia BlueFit Franca aqui em Franca, ó...'
+2026-07-09 14:20:46,561 - INFO -    ⏳ Aguardando 16s...
+2026-07-09 14:21:02,562 - INFO - ➡️ [8/8] Enviando para +5516992411065
+2026-07-09 14:21:02,562 - INFO - 🧪 [MODO TESTE] Enviaria para +5516992411065: 'Oi! Vi o SIM, uma não academia aqui em Franca. Aju...'
+2026-07-09 14:21:02,562 - INFO -    ⏳ Aguardando 14s...
+2026-07-09 14:21:16,563 - INFO - 
+==================================================
+2026-07-09 14:21:16,563 - INFO - 📊 ESTATÍSTICAS FINAIS
+2026-07-09 14:21:16,563 - INFO - ==================================================
+2026-07-09 14:21:16,563 - INFO - ✅ Enviados com sucesso: 8
+2026-07-09 14:21:16,563 - INFO - ❌ Falhas: 0
+2026-07-09 14:21:16,564 - INFO - 🔄 Retries realizados: 0

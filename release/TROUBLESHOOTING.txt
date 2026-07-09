@@ -1,0 +1,44 @@
+PROBLEMAS COMUNS E SOLUÇÕES
+============================
+
+1. "Porta 8000 já em uso"
+   - Solução: Feche outras instâncias do programa ou altere a porta
+   - Tecle CTRL+C no terminal e tente novamente
+
+2. "Erro ao conectar ao WhatsApp Web"
+   - Verifique se Chrome/Chromium está instalado
+   - Se usar navegador diferente, abra https://web.whatsapp.com antes de iniciar
+   - Escaneie o QR code quando solicitado
+
+3. "Mensagens não estão sendo enviadas"
+   - Verifique o formato dos números (deve incluir DDD)
+   - Confirme que WhatsApp Web está autenticado
+   - Verifique o arquivo log_envio.txt para mais detalhes
+
+4. "Aplicação não inicia"
+   - Tente duplo-clique direto em run_app.exe
+   - Se não funcionar, verifique se seu Windows é 64-bits
+   - Desabilite antivírus/firewall temporariamente e tente novamente
+
+5. "CSV não carrega"
+   - Certifique-se que a coluna se chama exatamente "phone"
+   - Salve como CSV UTF-8
+   - Números devem estar SEM caracteres especiais (-, ), espaços)
+   - Exemplo correto: 16999990732 (não 16 99999-0732)
+
+LOGS E DEBUG
+============
+
+Arquivo log_envio.txt contém o histórico de envios:
+- Verifique para confirmar quais mensagens foram enviadas
+- Timestamps mostram exatamente quando cada envio foi agendado
+
+Para modo teste:
+- config.json: defina "modo_teste": true
+- Neste modo, mensagens NÃO são realmente enviadas
+- Use para testar o fluxo sem enviar mensagens reais
+
+CONTATO
+=======
+Se continuar com problemas, fornecemos suporte técnico.
+Colete o arquivo log_envio.txt e config.json para análise.

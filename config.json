@@ -1,0 +1,28 @@
+{
+  "arquivo_leads": "leads.csv",
+  "coluna_telefone": "telefone",
+  "coluna_mensagem": "mensagem_sugerida",
+  "coluna_status": "status",
+  "filtro_status": "não contatado",
+  "lote_tamanho": 20,
+  "tempo_entre_msg_min": 15,
+  "tempo_entre_msg_max": 30,
+  "tempo_espera_lotes_segundos": 300,
+  "max_tentativas": 2,
+  "delay_erro_segundos": 10,
+  "ddi_padrao": "55",
+  "modo_teste": true,
+  "log_arquivo": "log_envio.txt",
+  "relatorio_erros": "erros.csv",
+  "variaveis_personalizacao": [
+    "nome",
+    "nicho",
+    "cidade"
+  ],
+  "padroes_anti_bloqueio": {
+    "variacao_tempo_ativada": true,
+    "pausas_aleatorias": false,
+    "simulacao_digitacao": false,
+    "limite_mensagens_hora": 40
+  }
+}
