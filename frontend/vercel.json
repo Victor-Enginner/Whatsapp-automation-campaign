@@ -2,7 +2,5 @@
   "buildCommand": "npm run build",
   "installCommand": "npm install",
   "outputDirectory": "build",
-  "env": {
-    "REACT_APP_API_URL": "@react_app_api_url"
-  }
+  "nodeVersion": "18.x"
 }
