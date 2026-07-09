@@ -2,6 +2,7 @@
 backend/
 auto_whatsapp_pro.py
 run_app.py
+*.py
 *.pyc
 __pycache__/
 .venv/
@@ -9,3 +10,15 @@ dist/
 build/
 .env.local
 .env.*.local
+config.json
+leads.csv
+nexus-itapema.csv
+log_envio.txt
+uploads/
+pack/
+release/
+*.zip
+*.spec
+*.bat
+*.ps1
+*.env
