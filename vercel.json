@@ -1,8 +1,0 @@
-{
-  "buildCommand": "npm --prefix frontend run build",
-  "outputDirectory": "frontend/build",
-  "installCommand": "npm --prefix frontend install",
-  "env": {
-    "REACT_APP_API_URL": "http://localhost:8000"
-  }
-}
