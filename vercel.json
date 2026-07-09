@@ -4,7 +4,5 @@
   "installCommand": "npm --prefix frontend install",
   "env": {
     "REACT_APP_API_URL": "http://localhost:8000"
-  },
-  "framework": "create-react-app",
-  "nodeVersion": "18.x"
+  }
 }
